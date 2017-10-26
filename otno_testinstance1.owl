@@ -11,8 +11,8 @@
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Import>http://webprotege.stanford.edu/project/8fr5J2CXGlliLb5Fzl1QMj</Import>
-    <Import>http://ontothenextone.net/otno</Import>
+    <Import>https://raw.githubusercontent.com/matentzn/owlreasonerontology/master/root-ontology.owx</Import>
+    <Import>https://raw.githubusercontent.com/matentzn/otno/master/otno.owl</Import>
     <SubClassOf>
         <Class IRI="http://webprotege.stanford.edu/RdvtjZ3ZCfr4aqhEa3uyYO"/>
         <Class IRI="http://ontothenextone.net/otno#CodedConcept"/>
